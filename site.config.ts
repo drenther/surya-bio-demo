@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Suryadeep Pal',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Suryadeep Pal - Software Engineer',
 
   // social usernames (optional)
   twitter: 'techpool',
