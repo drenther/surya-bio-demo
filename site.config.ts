@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Suryadeep Pal',
-  domain: 'surya.vercel.app',
+  domain: 'surya-bio-demo.vercel.app',
   author: 'Suryadeep Pal',
 
   // open graph metadata (optional)
